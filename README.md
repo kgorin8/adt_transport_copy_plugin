@@ -1,5 +1,3 @@
-# adt_transport_copy_plugin
-
 **ADT Transport of Copies** plugin allows you to quickly create SAP transports from Eclipse
 
 1. Install ABAP part using abapgit
