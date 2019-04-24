@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_ADT_TOC_RES</CLSNAME>
+    <LANGU>R</LANGU>
+    <DESCRIPT>ADT Transport of Copies</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ADT_TOC_RES</CLSNAME>
+     <CMPNAME>CS_DEFAULT_TARGET</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Цель переноса для запроса</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ADT_TOC_RES</CLSNAME>
+     <CMPNAME>CS_TEXT_DESCRIPTION</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Краткое описание объектов репозитария</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
