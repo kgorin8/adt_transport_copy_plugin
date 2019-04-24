@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.github.kgorin8.adt_transport_copy_plugin_1.0.0.jar" id="com.github.kgorin8.adt_transport_copy_plugin" version="1.0.0">
+      <category name="ADT Transport of Copies"/>
+   </feature>
+   <category-def name="ADT Transport of Copies" label="ADT Transport of Copies"/>
+</site>
