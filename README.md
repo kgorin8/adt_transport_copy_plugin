@@ -1,6 +1,6 @@
 **ADT Transport of Copies** plugin allows you to quickly create SAP transports from Eclipse
 
-1. Install ABAP part using abapgit
+1. Install ABAP part using abapgit (you'll have to put the directory into a separate zip file for this to work).
 2. Change CS_DEFAULT_TARGET in ZCL_ADT_TOC_RES class atributes to your desired QA system (this you fill in if you create toc in SE01)
 3. Go so SICF and activate /sap/bc/adt/ service.
 4. Point your Eclipse to https://raw.githubusercontent.com/kgorin8/adt_transport_copy_plugin/master/adt_transport_copy_site/site.xml
