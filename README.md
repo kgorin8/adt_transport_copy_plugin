@@ -11,4 +11,4 @@ Q. I'm getting 500 error from server.
 
 A. Something bad happens during creation of transport. You will have to debug this yourself. However the most common reason is listed in step 2.
 
-> This was largely done thanks to prior work from https://github.com/ceedee666/adt_transport_utils_plugin However I had to completely rewrite the code both on plugin and ABAP parts so I don't recognise this as a derivative work (as in Oracle vs Android action API names don't count). Also original plugin is no longer supported and I was unable to make it work due to messed up endpoints.
+> This was largely done thanks to prior work from https://github.com/ceedee666/adt_transport_utils_plugin However I had to completely rewrite the code both on plugin and ABAP parts
